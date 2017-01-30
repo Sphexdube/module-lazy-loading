@@ -1,6 +1,7 @@
 [![NPM Repo](https://img.shields.io/npm/v/angular-async-loader.svg)](https://www.npmjs.com/package/angular-async-loader)
 [![License](http://img.shields.io/badge/License-Apache_2-red.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0)
 
+Siphesihle dube
 # angular-async-loader
 
 Load modules and components asynchronously for angular 1.x application.
